@@ -68,7 +68,7 @@
       
     </style>
   </head>
-  <body id="a" style= " margin-left: 5%; margin-right: 5%; border: #2000d6 solid 8px">
+  <body id="a" style= " border: #2000d6 solid 8px">
     <div style="color: #ffffff;" id="f">
         <marquee scrollamount="10" direction="left"><b>जितेंद्र स्टूडियो घुसकीटोला
         </b>
