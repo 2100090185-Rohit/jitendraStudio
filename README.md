@@ -5,16 +5,12 @@
         #b {
         
         background-color: hsl(0, 0%, 100%);
-       
-        
-      
+
       }
         #f {
         background-color: #008311d8;
         font-size: 30px;
-       
-       
-        
+    
         color: #ffffffe1;}
     
       #a {
@@ -27,12 +23,7 @@
  .button {
         border: none;
         color: white;
-       
-     
-        
-        
-       
-        
+   
         font-size: 25px;
         margin: 6px 8px;
         transition-duration: 0.4s;
@@ -74,8 +65,6 @@
         </b>
           
         </marquee>
-
-        
       </div>
       
     <div id="b" align="center">
@@ -88,15 +77,11 @@
        
         <button onclick="window.open('https://myaadhaar.uidai.gov.in/','_blank')" class="button button2"> <b>Aadhar Card</b></button>
      <br>
-
-        
         <button onclick="window.open('https://dbtagriculture.bihar.gov.in/','_blank')" class="button button1"> <b>DBT</b></button>
         <button onclick="window.open('https://dbtagriculture.bihar.gov.in/Search.aspx','_blank')" class="button button1"> <b>DBT Reg. no.</b></button>
         <button onclick="window.open('https://pmkisan.gov.in/BeneficiaryStatus.aspx','_blank')" class="button button1"> <b>PM Status</b></button>
         <button onclick="window.open('https://pacsonline.bih.nic.in/fsy/','_blank')" class="button button1"> <b>Fasal Bima</b></button>
   <button onclick="window.open('https://connect.csc.gov.in/account/authorize?response_type=code&client_id=0f8ca686-5a31-46b8-bb51-d9834ba9fa9d&redirect_uri=https%3A%2F%2Fdigitalseva.csc.gov.in%2Fauth%2Fcallback%2F&state=75885','_blank')" class="button button1"> <b>Digital Seva</b></button>
- 
- 
  <br>
 
   <button onclick="window.open('https://register.eshram.gov.in/#/user/self','_blank')" class="button button2"> <b>e-Shram</b></button>
@@ -106,10 +91,6 @@
  
   <button onclick="window.open('https://sbpdcl.co.in/(S(qejignhvhz5cloy0unxrpn13))/frmquickbillpaymentall.aspx','_blank')" class="button button2"> <b>Bijali Bill</b></button>
   <button onclick="window.open('http://164.100.251.14/DigitalSevaConnect/','_blank')" class="button button2"> <b>e Labharthi</b></button> <br>
- 
-  
-
-  
 
 <button onclick="window.open('https://www.mylpg.in/index.aspx','_blank')" class="button button1"> <b>Gas Booking</b></button>
 <button onclick="window.open('http://ele.bihar.gov.in/pdfsearch/','_blank')" class="button button1"> <b>Voter List</b></button>
@@ -125,9 +106,5 @@
     </marquee>
   </div>
 
-  
- 
-      
-    
   </body>
 </html>
