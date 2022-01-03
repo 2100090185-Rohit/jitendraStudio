@@ -96,7 +96,7 @@
   </head>
   <body id="a" style= " margin-left: 5%; margin-right: 5%; border: #000000 solid 8px">
     <div style="color: #ffffff;" id="f">
-        <marquee scrollamount="15" direction="left"><b>जितेंद्र स्टूडियो 8210465023</b>
+        <marquee scrollamount="15" direction="left"><b>Welcome to Jitendra Digital Studio</b>
           
         </marquee>
 
@@ -104,20 +104,20 @@
       </div>
 
       <div id="c" align="center">
-        <br>
+
 
 
         <button onclick="window.open('https://digitalindiaportal.co.in/','_blank')" class="button button3"> <b>NSDL</b></button>
         <button onclick="window.open('https://pacsonline.bih.nic.in/fsy/','_blank')" class="button button3"> <b>फसल बीमा</b></button>
-        <button onclick="window.open('https://drive.google.com/file/d/1aNBELL3tPRGxsrAtl2q7bn0urWeMd5PX/view?usp=sharing','_blank')" class="button button3"> <b>गैर रैयत</b></button>
+        <button onclick="window.open('https://pacsonline.bih.nic.in/fsy/Public/fasalFarmerSelfDeclaration.pdf','_blank')" class="button button3"> <b>गैर रैयत</b></button>
         <button onclick="window.open('https://selfregistration.cowin.gov.in/','_blank')" class="button button3"> <b>Cowin</b></button>
-        <button onclick="window.open('https://myaadhaar.uidai.gov.in/','_blank')" class="button button2"> <b>Aadhar Card</b></button>
-     <br>
+        <button onclick="window.open('http://164.100.251.14/DigitalSevaConnect/','_blank')" class="button button3"> <b>e Labharthi</b></button>
+
 
 
       
     <div id="b" align="center">
-        <br>
+    
 
 
         <button onclick="window.open('https://www.youtube.com/','_blank')" class="button button2"> <b>You Tube</b></button>
@@ -125,7 +125,7 @@
         <button onclick="window.open('https://www.irctc.co.in/nget/train-search','_blank')" class="button button2"> <b>IRCTC</b></button>
         <button onclick="window.open('http://www.indianrail.gov.in/enquiry/PNR/PnrEnquiry.html?locale=en','_blank')" class="button button2"> <b>PNR Status</b></button>
         <button onclick="window.open('https://myaadhaar.uidai.gov.in/','_blank')" class="button button2"> <b>Aadhar Card</b></button>
-     <br>
+   
 
         
         <button onclick="window.open('https://dbtagriculture.bihar.gov.in/','_blank')" class="button button1"> <b>DBT</b></button>
@@ -144,7 +144,7 @@
   <button onclick="window.open('https://serviceonline.bihar.gov.in/','_blank')" class="button button2"> <b>Service Plus</b></button>
   <button onclick="window.open('https://www.sarkariresult.com/','_blank')" class="button button2"> <b>Sarkari Result</b></button>
   <button onclick="window.open('https://sbpdcl.co.in/(S(qejignhvhz5cloy0unxrpn13))/frmquickbillpaymentall.aspx','_blank')" class="button button2"> <b>Bijali Bill</b></button>
-  <button onclick="window.open('http://164.100.251.14/DigitalSevaConnect/','_blank')" class="button button2"> <b>e Labharthi</b></button> <br>
+
  
   
 
@@ -155,10 +155,10 @@
 <button onclick="window.open('https://electoralsearch.in/','_blank')" class="button button1"> <b>Voter Detail</b></button>
 <button onclick="window.open('http://epds.bihar.gov.in/DistrictWiseRationCardDetailsBH.aspx','_blank')" class="button button1"> <b>Ration Card</b></button>
 <button onclick="window.open('http://scm.bihar.gov.in/dealer_challan.jsp','_blank')" class="button button1"> <b>E-Challan</b></button>
-<br><br>
+
 
 <div style="color: #ffffff;" id="f">
-    <marquee scrollamount="15" direction="right"><b>जितेंद्र स्टूडियो 8210465023</b>
+    <marquee scrollamount="15" direction="right"><b>Welcome to Jitendra Digital Studio</b>
       
     </marquee>
   </div>
