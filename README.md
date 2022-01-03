@@ -135,7 +135,7 @@
   <button onclick="window.open('https://pacsonline.bih.nic.in/fsy/','_blank')" class="button button1"> <b>Fasal Bima</b></button>
  
  
-  <button onclick="window.open('https://connect.csc.gov.in/account/authorize?response_type=code&client_id=0f8ca686-5a31-46b8-bb51-d9834ba9fa9d&redirect_uri=https%3A%2F%2Fdigitalseva.csc.gov.in%2Fauth%2Fcallback%2F&state=75885','_blank')" class="button button1"> <b>Digital Seva</b></button><br>
+  <button onclick="window.open('https://connect.csc.gov.in/account/authorize?response_type=code&client_id=0f8ca686-5a31-46b8-bb51-d9834ba9fa9d&redirect_uri=https%3A%2F%2Fdigitalseva.csc.gov.in%2Fauth%2Fcallback%2F&state=75885','_blank')" class="button button1"> <b>Digital Seva</b></button>
 
 
   
