@@ -1,0 +1,122 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/studio.html
+Subject: 
+Date: Sun, 19 Dec 2021 12:34:57 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--WQpcFH8X00n387khA9Cmv7uduOSIhb9l1wojH2X7vr----"
+
+
+------MultipartBoundary--WQpcFH8X00n387khA9Cmv7uduOSIhb9l1wojH2X7vr----
+Content-Type: text/html
+Content-ID: <frame-505C9E3EA5DF26F2F5AE64750F8CDF77@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/studio.html
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D=
+"cid:css-f36d57df-5c72-43cd-908e-e261748b5361@mhtml.blink" />
+   =20
+  </head>
+  <body id=3D"a" style=3D" margin-left: 5%; margin-right: 5%; border: #2000=
+d6 solid 8px">
+    <div style=3D"color: #ffffff;" id=3D"f">
+        <marquee scrollamount=3D"10" direction=3D"left"><b>=E0=A4=9C=E0=A4=
+=BF=E0=A4=A4=E0=A5=87=E0=A4=82=E0=A4=A6=E0=A5=8D=E0=A4=B0 =E0=A4=B8=E0=A5=
+=8D=E0=A4=9F=E0=A5=82=E0=A4=A1=E0=A4=BF=E0=A4=AF=E0=A5=8B =E0=A4=98=E0=A5=
+=81=E0=A4=B8=E0=A4=95=E0=A5=80=E0=A4=9F=E0=A5=8B=E0=A4=B2=E0=A4=BE
+        </b>
+         =20
+        </marquee>
+
+       =20
+      </div>
+     =20
+    <div id=3D"b" align=3D"center">
+        <br>
+        <button class=3D"button button2"> <b>You Tube</b></button>
+        <button class=3D"button button2"> <img src=3D"http://127.0.0.1:5500=
+/studio.html" alt=3D""> <b>Cowin</b></button>
+       =20
+        <button class=3D"button button2"> <b>IRCTC</b></button>
+        <button class=3D"button button2"> <b>PNR Status</b></button>
+      =20
+        <button class=3D"button button2"> <b>Aadhar Card</b></button>
+     <br>
+
+       =20
+        <button class=3D"button button1"> <b>DBT</b></button>
+        <button class=3D"button button1"> <b>DBT Reg. no.</b></button>
+        <button class=3D"button button1"> <b>PM Status</b></button>
+        <button class=3D"button button1"> <b>Fasal Bima</b></button>
+  <button class=3D"button button1"> <b>Digital Seva</b></button>
+=20
+=20
+ <br>
+
+  <button class=3D"button button2"> <b>e-Shram</b></button>
+  <button class=3D"button button2"> <b>Service Plus</b></button>
+  <button class=3D"button button2"> <b>Sarkari Result</b></button>
+ =20
+=20
+  <button class=3D"button button2"> <b>Bijali Bill</b></button>
+  <button class=3D"button button2"> <b>e Labharthi</b></button> <br>
+=20
+ =20
+
+ =20
+
+<button class=3D"button button1"> <b>Gas Booking</b></button>
+<button class=3D"button button1"> <b>Voter List</b></button>
+<button class=3D"button button1"> <b>Voter Detail</b></button>
+<button class=3D"button button1"> <b>Ration Card</b></button>
+<button class=3D"button button1"> <b>E-Challan</b></button>
+<br>
+
+<div style=3D"color: #ffffff;" id=3D"f">
+    <marquee scrollamount=3D"10" direction=3D"right"><b>=E0=A4=9C=E0=A4=BF=
+=E0=A4=A4=E0=A5=87=E0=A4=82=E0=A4=A6=E0=A5=8D=E0=A4=B0 =E0=A4=B8=E0=A5=8D=
+=E0=A4=9F=E0=A5=82=E0=A4=A1=E0=A4=BF=E0=A4=AF=E0=A5=8B =E0=A4=98=E0=A5=81=
+=E0=A4=B8=E0=A4=95=E0=A5=80=E0=A4=9F=E0=A5=8B=E0=A4=B2=E0=A4=BE
+    </b>
+     =20
+    </marquee>
+  </div>
+
+ =20
+=20
+     =20
+   =20
+  <!-- Code injected by live-server -->
+
+
+</div></body></html>
+------MultipartBoundary--WQpcFH8X00n387khA9Cmv7uduOSIhb9l1wojH2X7vr----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-f36d57df-5c72-43cd-908e-e261748b5361@mhtml.blink
+
+@charset "utf-8";
+
+#b { background-color: rgb(255, 255, 255); }
+
+#f { background-color: rgba(0, 131, 17, 0.847); font-size: 30px; color: rgb=
+a(255, 255, 255, 0.882); }
+
+#a { background-color: rgb(255, 255, 255); border-radius: 10px; }
+
+.button { border: none; color: white; font-size: 25px; margin: 6px 8px; tra=
+nsition-duration: 0.4s; cursor: pointer; border-radius: 10px; height: 95px;=
+ width: 200px; }
+
+.button1 { background-color: rgb(222, 243, 195); color: black; border: 3px =
+solid rgb(14, 189, 20); }
+
+.button1:hover { background-color: rgb(0, 197, 7); color: white; }
+
+.button2 { background-color: rgb(221, 237, 255); color: black; border: 3px =
+solid rgb(0, 140, 186); }
+
+.button2:hover { background-color: rgb(0, 140, 186); color: white; }
+------MultipartBoundary--WQpcFH8X00n387khA9Cmv7uduOSIhb9l1wojH2X7vr------
